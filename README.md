@@ -9,13 +9,17 @@ This App is designed to devour burgers!
 
 ##### Available 
 -The user can choose from the burgers available to devour or delete the burger
-    -If the user chooses the devour the burger, the burger moves to the devoure section of the page
-    -If the user chooses to delete the burger, the burger is deleted from the page
+
+-If the user chooses the devour the burger, the burger moves to the devoure section of the page
+
+-If the user chooses to delete the burger, the burger is deleted from the page
 
 ##### Devoured
 -The user can choose from the devoured burgers to undevour or delete the burger
-    -If the user chooses the undevour the burger, the burger will move to the available section of the page 
-    -If the user chooses the delete the burger, the burger is deleted from the page
+
+-If the user chooses the undevour the burger, the burger will move to the available section of the page 
+
+-If the user chooses the delete the burger, the burger is deleted from the page
 
 
 ### Database
