@@ -3,7 +3,6 @@
 This App is designed to devour burgers!
 
 ### Instructions
-
      -Burger Input
         -The user inputs a burger name into the textbox
         -The user can choose if the burger is already devoured or is still available
