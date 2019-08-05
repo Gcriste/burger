@@ -28,7 +28,7 @@ The app stores the information into a mysql database. Anytime a new burger is ad
 
 
 ### Link
-Link to the deployed heroku version  https://friendfindergriffin.herokuapp.com/
+Link to the deployed heroku version  https://burgerdevourgriffin.herokuapp.com/
 
 
 ### How to Use
