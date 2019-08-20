@@ -21,7 +21,7 @@ $(function() {
       );
     });
   
-    $(".create-form").on("submit", function(event) {
+    $(".submit").on("click", function(event) {
       // Make sure to preventDefault on a submit event.
       event.preventDefault();
   
@@ -29,6 +29,7 @@ $(function() {
         burger_name: $("#burger").val().trim(),
         devoured: $("[name=devoured]:checked").val().trim()
       };
+
   
       // Send the POST request.
       $.ajax("/api/burgers", {
